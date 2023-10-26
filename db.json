@@ -1,9 +1,10 @@
 {
-  "todos": [
+  "users": [
     {
       "id": 1,
-      "title": "Learn React",
-      "Status": "completed"
+      "email": "ankit@gmail.com",
+      "username": "ankit123",
+      "pass":"12345"
     }
   ]
 }
